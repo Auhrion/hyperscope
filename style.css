@@ -19,9 +19,9 @@ nav ul {
     top: 0;
     width: 100%;
     margin: 0;
-    padding: 10px 0;
+    padding: 100px 10;
     list-style: none;
-    background-color: rgba(0, 0, 0, 0.5); /* Translucent background */
+    background-color: rgba(0, 0, 0, 5); /* Translucent background */
     display: flex;
     justify-content: center;
 }
