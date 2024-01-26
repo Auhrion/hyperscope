@@ -1,19 +1,13 @@
 /* styles.css */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-    /* styles.css */
-    background-image: url('https://github.com/Auhrion/hyperscope/blob/main/images/background.jpg?raw=true');
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    text-justify: inter-word;
+    background-image: url('https://github.com/Auhrion/hyperscope/blob/main/images/background.jpg?raw=true'); /* Replace with the actual image URL */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
-}
-
-h1 {
-    color: #e8491d;
-}
-
-/* Add more CSS rules as needed */
+/* Add more CSS rules for your website's styling */
