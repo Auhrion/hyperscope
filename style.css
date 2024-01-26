@@ -3,6 +3,13 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
+    /* styles.css */
+    background-image: url('https://github.com/Auhrion/hyperscope/blob/main/images/background.jpg?raw=true');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 }
 
 h1 {
