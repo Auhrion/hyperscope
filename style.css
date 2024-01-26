@@ -8,6 +8,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    opacity: 0.8; /* Adjust the opacity value as needed */
+
 }
 
 /* Add more CSS rules for your website's styling */
