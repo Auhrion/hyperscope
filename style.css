@@ -21,14 +21,14 @@ body {
     overflow: hidden;
 }
 header {
-    background: #25507a;
+    background: #00692f;
     color: white;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #25507a 3px solid;
+    border-bottom: #00692f 3px solid;
 }
 header a {
-    color: #ffffff;
+    color: #00692f;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
@@ -53,7 +53,7 @@ header nav {
     margin-top: 10px;
 }
 header .highlight, header .current a {
-    color: #e8491d;
+    color: #00692f;
     font-weight: bold;
 }
 header a:hover {
@@ -74,7 +74,7 @@ footer {
     bottom: 0;
     width: 100%;
     height: 60px; /* Adjust this value to match your footer height */
-    background-color: #50b3a2;
+    background-color: #00692f;
     color: white;
     text-align: center;
     padding-top: 15px;
