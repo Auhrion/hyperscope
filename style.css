@@ -1,81 +1,34 @@
 /* styles.css */
 
 body {
-    height: 100%;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
-    text-align: justify;
-    text-justify: inter-word;
-    position: relative; /* Add this line */
-    /* background-image: url('https://github.com/Auhrion/hyperscope/blob/main/images/background.jpg?raw=true'); /* Replace with the actual image URL 
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed; */
-    opacity: 1; /* Adjust the opacity value as needed */
 }
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
+
 header {
-    background: #00692f;
-    color: white;
-    padding-top: 30px;
-    min-height: 70px;
-    border-bottom: #00692f 3px solid;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
 }
-header a {
-    color: #00692f;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 16px;
-}
-header ul {
-    padding: 0;
-    list-style: none;
+
+section {
+    padding: 40px;
     text-align: center;
 }
-header li {
-    display: inline;
-    margin: 0 20px;
-}
-header #branding {
-    float: center;
-}
-header #branding h1 {
-    margin: 0;
-}
-header nav {
-    float: right;
-    margin-top: 10px;
-}
-header .highlight, header .current a {
-    color: #00692f;
-    font-weight: bold;
-}
-header a:hover {
-    color: #ffffff;
-    font-weight: bold;
-}
-/* styles.css */
 
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-    padding-bottom: 60px; /* Adjust this value to match your footer height */
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 60px; /* Adjust this value to match your footer height */
-    background-color: #00692f;
-    color: white;
+    background-color: #333;
+    color: #fff;
     text-align: center;
-    padding-top: 15px;
+    padding: 10px;
 }
