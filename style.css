@@ -12,8 +12,8 @@ body {
     /* background-image: url('https://github.com/Auhrion/hyperscope/blob/main/images/background.jpg?raw=true'); /* Replace with the actual image URL 
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    opacity: 0.2; /* Adjust the opacity value as needed */
+    background-attachment: fixed; */
+    opacity: 1; /* Adjust the opacity value as needed
 }
 .container {
     width: 80%;
